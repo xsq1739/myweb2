@@ -17,9 +17,8 @@ featured: true
 ![100](../assets/images/生日x.png)  
 **我的老家在**  
 ![100](../assets/images/四川x.png)  
-
-目前我是强棒基地的一名棒球运动员。
-
+**目前我是强棒基地的一名**
+![100](../assets/images/运动员x.png) 
 ---
 > 想知道什么是棒球基地？
 > 想知道关于我的更多资料？
