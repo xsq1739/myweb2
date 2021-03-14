@@ -8,13 +8,13 @@ featured: true
 我先来介绍一下自己吧  
 -----
 **我是**  
-![100](../assets/images/吉克石子.png)  
+![100](../assets/images/石子x.png)  
 **我今年**  
-![100](../assets/images/11岁.png)  
+![100](../assets/images/11x.png)  
 **我的生日是**  
-![100](../assets/images/生日.png)  
+![100](../assets/images/生日x.png)  
 **我的老家在**  
-![100](../assets/images/四川.png)  
+![100](../assets/images/四川x.png)  
 
 目前我是强棒基地的一名棒球运动员。
 
