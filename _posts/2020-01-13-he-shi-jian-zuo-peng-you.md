@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "记录 | 文艺小石子"
-image: assets/images/hua.jpg
+image: assets/images/hua.png
 ---
 
 石子是有着一个酒窝，很爱笑小女孩。  
