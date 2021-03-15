@@ -5,8 +5,9 @@ image: assets/images/hua.jpg
 ---
 
 石子是有着一个酒窝，很爱笑小女孩。  
-她最喜欢的歌是《飞鸟与蝉》和《下山》。
-![dbq](../assets/images/fnhc.jpg)  
+她最喜欢的歌是《飞鸟与蝉》和《下山》。  
+
+![dbq](../assets/images/fnhc.png)  
 
 - 她人气很高，户外场地上总有小朋友远远地就要和石子打招呼，真团宠。  
 
