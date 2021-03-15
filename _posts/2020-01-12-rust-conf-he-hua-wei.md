@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  石子·小档案
+title:  石子 · 小档案
 image: assets/images/image.png
 ---
 
