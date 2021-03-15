@@ -2,11 +2,11 @@
 baseurl: "/myweb2"
 
 # 网页的标题
-title: "HELLOWORLD"
+title: "吉克石子的个人站"
 # 网站的主标题
-name: "HELLOWORLD"
+name: "吉克石子的个人站"
 # 网站副标题
-description: "1234"
+description: "关于小石子的故事"
 
 # 分页配置
 # 每页文章数量
